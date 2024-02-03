@@ -83,7 +83,7 @@ Once the three steps are completed, the TCP connection is considered established
 
 This process is crucial for the reliable and ordered transmission of data over a TCP connection, providing features such as error checking, flow control, and congestion control. Additionally, the three-way handshake helps prevent old or duplicate connection initiation attempts from causing confusion in the communication process.
 
-![alt_text](https://github.com/RamachandraBharadwaj/Git_proj/blob/main/readme_images/3way.png)
+![alt_text](readme_images/3way.png)
 
 # Getting Started
 ## Dependencies:
