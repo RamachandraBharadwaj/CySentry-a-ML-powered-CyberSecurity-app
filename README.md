@@ -40,7 +40,7 @@ We used a combination probability of 5 perfectly designed, trained and tested mo
 3) Inconclusive (if majority prediction is malware through 3-2 tie in malware vs non-malware classification)
 The third tier was introduced to reduce the number of false positive rates!
 
-[!imago](readme_images/PE-Structure.png)
+![imago](readme_images/PE-Structure.png)
 
 
 ## Port Scan:
@@ -54,7 +54,7 @@ This information is valuable for various reasons, including network security ass
 
 Port scanning involves sending network requests to a range of ports on a target system and analyzing the responses. There are different types of port scans, including:
 
-[!imo](readme_images/white.jpg)
+![imo](readme_images/white.jpg)
 
 TCP Connect Scan: This type establishes a full TCP connection to the target port. If successful, it indicates that the port is open.
 
@@ -64,7 +64,7 @@ This was formerly known as stealth scan. But it isnt comparatively more stealthy
 
 The "three-way handshake" is a fundamental process in establishing a TCP (Transmission Control Protocol) connection between two networked devices. It is a reliable and connection-oriented protocol that ensures the orderly and secure exchange of data. The three-way handshake involves three steps:
 
-[!imara](readme_images/porter.png)
+![imara](readme_images/porter.png)
 
 ## SYN (Synchronize):
 
@@ -83,7 +83,7 @@ Once the three steps are completed, the TCP connection is considered established
 
 This process is crucial for the reliable and ordered transmission of data over a TCP connection, providing features such as error checking, flow control, and congestion control. Additionally, the three-way handshake helps prevent old or duplicate connection initiation attempts from causing confusion in the communication process.
 
-[!alt_text](https://github.com/RamachandraBharadwaj/Git_proj/blob/main/readme_images/3way.png)
+![alt_text](https://github.com/RamachandraBharadwaj/Git_proj/blob/main/readme_images/3way.png?raw=true)
 
 
 # Getting Started
