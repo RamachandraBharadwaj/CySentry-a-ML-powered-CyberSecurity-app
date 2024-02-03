@@ -1,0 +1,365 @@
+2024-01-27 17:16:52 - Please select pcap!
+2024-01-27 17:17:05 - Pcap is listening...
+2024-01-27 17:17:18 - path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:17:23 - Pcap is listening...
+2024-01-27 17:17:30 - path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:21:13 - Pcap is listening...
+2024-01-27 17:21:37 - path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:21:53 - Pcap is listening...
+2024-01-27 17:22:12 - path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:50:40 - Pcap is listening...
+2024-01-27 17:50:50 - path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-31 17:51:47 - Pcap is listening...
+2024-01-31 17:51:51 - path:C:\Users\mahal\Downloads\CICFlowMeter-4.0\bin\data\daily\2024-01-31_Flow.csv
+2024-01-31 18:11:32 - Pcap is listening...
+2024-01-31 18:29:41 - You select: C:\\Users\\mahal\\Downloads\\captured_packets.pcap
+2024-01-31 18:29:41 - Out folder: C:\\Users\\mahal\\Downloads\\flow.csv
+2024-01-31 18:29:41 - CICFlowMeter received 1 pcap file
+2024-01-31 18:31:09 - The pcap file or folder does not exist! -> captured_packets.pcap
+2024-01-31 18:32:17 - The pcap file or folder does not exist! -> C:Downloads\\captured_packets.pcap
+2024-01-31 23:07:55 - The pcap file or folder does not exist! -> C:Downloads\\captured_packets.pcap
+2024-01-31 23:09:40 - You select: C:\\Users\\mahal\\Downloads\\captured_packets.pcap
+2024-01-31 23:09:40 - Out folder: flow.csv
+2024-01-31 23:09:40 - CICFlowMeter received 1 pcap file
+2024-01-31 23:11:17 - The out folder does not exist! -> C:\\Users\\mahal\\Downloads\\flows.csv
+2024-01-31 23:11:50 - You select: C:\\Users\\mahal\\Downloads\\captured_packets.pcap
+2024-01-31 23:11:50 - Out folder: C:\\Users\\mahal\\Downloads
+2024-01-31 23:11:51 - CICFlowMeter received 1 pcap file
+2024-02-01 01:16:17 - The pcap file or folder does not exist! -> packetcaptures1\\captured_packets.pcap
+2024-02-01 01:23:19 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 01:23:19 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 01:23:19 - CICFlowMeter received 1 pcap file
+2024-02-01 01:24:36 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 01:24:36 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 01:24:37 - CICFlowMeter received 1 pcap file
+2024-02-01 01:56:15 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 01:56:15 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 01:56:16 - CICFlowMeter received 1 pcap file
+2024-02-01 01:58:56 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 01:58:56 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 01:58:57 - CICFlowMeter received 1 pcap file
+2024-02-01 02:23:29 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 02:23:29 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 02:23:30 - CICFlowMeter received 1 pcap file
+2024-02-01 02:23:48 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 02:23:48 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 02:23:48 - CICFlowMeter received 1 pcap file
+2024-02-01 02:26:08 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 02:26:08 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 02:26:08 - CICFlowMeter received 1 pcap file
+2024-02-01 02:27:10 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 02:27:10 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 02:27:11 - CICFlowMeter received 1 pcap file
+2024-02-01 02:28:10 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 02:28:10 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 02:28:10 - CICFlowMeter received 1 pcap file
+2024-02-01 10:34:35 - You select: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1\\captured_packets.pcap
+2024-02-01 10:34:35 - Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\pcapcapture\\packetcaptures1
+2024-02-01 10:34:35 - CICFlowMeter received 1 pcap file
+2024-02-01 10:46:54 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 10:46:54 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 10:46:55 - CICFlowMeter received 1 pcap file
+2024-02-01 11:03:28 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:03:28 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:03:28 - CICFlowMeter received 1 pcap file
+2024-02-01 11:03:41 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:03:41 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:03:41 - CICFlowMeter received 1 pcap file
+2024-02-01 11:04:01 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:04:01 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:04:01 - CICFlowMeter received 1 pcap file
+2024-02-01 11:04:19 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:04:19 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:04:20 - CICFlowMeter received 1 pcap file
+2024-02-01 11:10:48 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:10:48 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:10:48 - CICFlowMeter received 1 pcap file
+2024-02-01 11:11:01 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:11:01 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:11:02 - CICFlowMeter received 1 pcap file
+2024-02-01 11:15:25 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:15:25 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:15:26 - CICFlowMeter received 1 pcap file
+2024-02-01 11:16:16 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:16:16 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:16:16 - CICFlowMeter received 1 pcap file
+2024-02-01 11:17:40 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:17:40 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:17:41 - CICFlowMeter received 1 pcap file
+2024-02-01 11:18:44 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:18:44 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:18:44 - CICFlowMeter received 1 pcap file
+2024-02-01 11:20:04 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:20:04 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:20:04 - CICFlowMeter received 1 pcap file
+2024-02-01 11:20:55 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:20:55 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:20:56 - CICFlowMeter received 1 pcap file
+2024-02-01 11:21:57 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:21:57 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:21:58 - CICFlowMeter received 1 pcap file
+2024-02-01 11:22:51 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:22:51 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:22:51 - CICFlowMeter received 1 pcap file
+2024-02-01 11:23:35 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:23:35 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:23:35 - CICFlowMeter received 1 pcap file
+2024-02-01 11:24:10 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:24:10 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:24:10 - CICFlowMeter received 1 pcap file
+2024-02-01 11:26:02 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:26:02 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:26:03 - CICFlowMeter received 1 pcap file
+2024-02-01 11:26:22 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:26:22 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:26:22 - CICFlowMeter received 1 pcap file
+2024-02-01 11:27:50 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:27:50 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:27:51 - CICFlowMeter received 1 pcap file
+2024-02-01 11:29:41 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:29:41 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:29:41 - CICFlowMeter received 1 pcap file
+2024-02-01 11:37:23 - You select: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1\captured_packets.pcap
+2024-02-01 11:37:23 - Out folder: c:\Users\soman\OneDrive\Desktop\pcapcapture\packetcaptures1
+2024-02-01 11:37:23 - CICFlowMeter received 1 pcap file
+2024-02-01 15:53:13 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-01 15:53:13 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-01 15:53:14 - CICFlowMeter received 1 pcap file
+2024-02-02 01:31:23 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:31:23 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:31:23 - CICFlowMeter received 1 pcap file
+2024-02-02 01:37:47 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:37:47 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:37:48 - CICFlowMeter received 1 pcap file
+2024-02-02 01:39:20 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:39:20 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:39:20 - CICFlowMeter received 1 pcap file
+2024-02-02 10:08:53 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:08:53 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:08:53 - CICFlowMeter received 1 pcap file
+2024-02-02 10:10:06 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:06 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:10:06 - CICFlowMeter received 1 pcap file
+2024-02-02 10:10:53 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:53 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:10:53 - CICFlowMeter received 1 pcap file
+2024-02-02 10:11:22 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:22 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:11:22 - CICFlowMeter received 1 pcap file
+2024-02-02 10:11:43 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:43 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:11:43 - CICFlowMeter received 1 pcap file
+2024-02-02 10:13:02 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:13:02 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:13:02 - CICFlowMeter received 1 pcap file
+2024-02-02 10:37:28 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:37:28 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:37:28 - CICFlowMeter received 1 pcap file
+2024-02-02 10:42:37 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:42:37 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:42:37 - CICFlowMeter received 1 pcap file
+2024-02-02 10:44:03 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:44:03 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:44:03 - CICFlowMeter received 1 pcap file
+2024-02-02 10:45:26 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:45:26 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:45:26 - CICFlowMeter received 1 pcap file
+2024-02-02 10:49:29 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:49:29 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:49:29 - CICFlowMeter received 1 pcap file
+2024-02-02 10:55:42 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:55:42 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:55:43 - CICFlowMeter received 1 pcap file
+2024-02-02 10:57:11 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:11 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:57:12 - CICFlowMeter received 1 pcap file
+2024-02-02 10:57:40 - You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:40 - Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:57:40 - CICFlowMeter received 1 pcap file
+2024-02-02 14:44:15 - The pcap file or folder does not exist! -> c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:45:54 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:45:54 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:45:54 - Please select pcap file!
+2024-02-02 14:48:56 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:48:56 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:48:56 - Please select pcap file!
+2024-02-02 14:50:51 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:50:51 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:50:51 - Please select pcap file!
+2024-02-02 14:52:31 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:52:31 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:52:31 - Please select pcap file!
+2024-02-02 14:56:02 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:56:02 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:56:02 - Please select pcap file!
+2024-02-02 14:56:52 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:56:52 - Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:56:52 - Please select pcap file!
+2024-02-02 14:58:33 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:58:33 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 14:58:33 - CICFlowMeter received 1 pcap file
+2024-02-02 15:00:23 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:00:23 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:00:24 - CICFlowMeter received 1 pcap file
+2024-02-02 15:02:01 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:02:01 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:02:02 - CICFlowMeter received 1 pcap file
+2024-02-02 15:09:43 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:09:43 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:09:43 - CICFlowMeter received 1 pcap file
+2024-02-02 15:12:23 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:12:23 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:12:23 - CICFlowMeter received 1 pcap file
+2024-02-02 15:15:13 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:15:13 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:15:14 - CICFlowMeter received 1 pcap file
+2024-02-02 15:18:15 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:18:15 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:18:16 - CICFlowMeter received 1 pcap file
+2024-02-02 15:19:27 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:19:27 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:19:28 - CICFlowMeter received 1 pcap file
+2024-02-02 15:20:38 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:20:38 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:20:39 - CICFlowMeter received 1 pcap file
+2024-02-02 15:21:37 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:21:37 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:21:37 - CICFlowMeter received 1 pcap file
+2024-02-02 15:29:10 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:29:10 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:29:11 - CICFlowMeter received 1 pcap file
+2024-02-02 15:31:32 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:31:32 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:31:32 - CICFlowMeter received 1 pcap file
+2024-02-02 15:37:55 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:37:55 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:37:56 - CICFlowMeter received 1 pcap file
+2024-02-02 15:40:13 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:40:13 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:40:14 - CICFlowMeter received 1 pcap file
+2024-02-02 15:42:03 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:42:03 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:42:03 - CICFlowMeter received 1 pcap file
+2024-02-02 15:43:25 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:43:25 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:43:25 - CICFlowMeter received 1 pcap file
+2024-02-02 15:49:52 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:49:52 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:49:52 - CICFlowMeter received 1 pcap file
+2024-02-02 15:54:17 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:54:17 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:54:17 - CICFlowMeter received 1 pcap file
+2024-02-02 15:55:29 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:55:29 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:55:29 - CICFlowMeter received 1 pcap file
+2024-02-02 15:56:26 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:56:26 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:56:26 - CICFlowMeter received 1 pcap file
+2024-02-02 15:57:42 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:57:42 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:57:42 - CICFlowMeter received 1 pcap file
+2024-02-02 15:58:15 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:15 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:15 - CICFlowMeter received 1 pcap file
+2024-02-02 15:58:29 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:29 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:30 - CICFlowMeter received 1 pcap file
+2024-02-02 15:58:46 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:46 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:46 - CICFlowMeter received 1 pcap file
+2024-02-02 15:59:51 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:59:51 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:59:51 - CICFlowMeter received 1 pcap file
+2024-02-02 16:00:23 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:00:23 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:00:23 - CICFlowMeter received 1 pcap file
+2024-02-02 16:01:04 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:04 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:04 - CICFlowMeter received 1 pcap file
+2024-02-02 16:01:19 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:19 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:19 - CICFlowMeter received 1 pcap file
+2024-02-02 16:01:34 - You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:34 - Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:34 - CICFlowMeter received 1 pcap file
+2024-02-02 19:26:49 - You select: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 19:26:49 - Out folder: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1
+2024-02-02 19:26:50 - CICFlowMeter received 1 pcap file
+2024-02-03 17:33:56 - You select: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:33:56 - Out folder: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1
+2024-02-03 17:33:56 - CICFlowMeter received 1 pcap file
+2024-02-03 17:39:32 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:39:32 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:39:32 - CICFlowMeter received 1 pcap file
+2024-02-03 17:40:29 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:40:29 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:40:29 - CICFlowMeter received 1 pcap file
+2024-02-03 17:41:03 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:41:03 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:41:04 - CICFlowMeter received 1 pcap file
+2024-02-03 17:41:28 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:41:28 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:41:28 - CICFlowMeter received 1 pcap file
+2024-02-03 17:41:57 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:41:57 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:41:57 - CICFlowMeter received 1 pcap file
+2024-02-03 17:42:16 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:42:16 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:42:17 - CICFlowMeter received 1 pcap file
+2024-02-03 17:46:53 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:46:53 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:46:53 - CICFlowMeter received 1 pcap file
+2024-02-03 17:53:26 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:53:26 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:53:26 - CICFlowMeter received 1 pcap file
+2024-02-03 17:54:51 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:54:51 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:54:51 - CICFlowMeter received 1 pcap file
+2024-02-03 17:55:13 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:55:13 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:55:14 - CICFlowMeter received 1 pcap file
+2024-02-03 17:55:51 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:55:51 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:55:51 - CICFlowMeter received 1 pcap file
+2024-02-03 17:56:00 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:56:00 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:56:00 - CICFlowMeter received 1 pcap file
+2024-02-03 17:56:09 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 17:56:09 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 17:56:09 - CICFlowMeter received 1 pcap file
+2024-02-03 18:24:30 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 18:24:30 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 18:24:30 - CICFlowMeter received 1 pcap file
+2024-02-03 18:29:00 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 18:29:00 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 18:29:01 - CICFlowMeter received 1 pcap file
+2024-02-03 18:31:22 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 18:31:22 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 18:31:23 - CICFlowMeter received 1 pcap file
+2024-02-03 19:43:49 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:43:49 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:43:50 - CICFlowMeter received 1 pcap file
+2024-02-03 19:45:23 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:45:23 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:45:24 - CICFlowMeter received 1 pcap file
+2024-02-03 19:46:10 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:46:10 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:46:10 - CICFlowMeter received 1 pcap file
+2024-02-03 19:48:15 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:48:15 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:48:16 - CICFlowMeter received 1 pcap file
+2024-02-03 19:49:39 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:49:39 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:49:39 - CICFlowMeter received 1 pcap file
+2024-02-03 19:56:32 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:56:32 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:56:32 - CICFlowMeter received 1 pcap file
+2024-02-03 19:57:58 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 19:57:58 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 19:57:58 - CICFlowMeter received 1 pcap file
+2024-02-03 20:42:18 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 20:42:18 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 20:42:19 - CICFlowMeter received 1 pcap file
+2024-02-03 20:44:54 - You select: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-03 20:44:54 - Out folder: c:\Users\soman\OneDrive\Desktop\Git_proj\Portscan_final\packetcaptures1
+2024-02-03 20:44:54 - CICFlowMeter received 1 pcap file

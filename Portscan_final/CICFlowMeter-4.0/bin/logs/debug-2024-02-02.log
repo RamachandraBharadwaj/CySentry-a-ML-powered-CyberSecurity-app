@@ -1,0 +1,454 @@
+2024-02-02 01:31:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:31:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:31:23 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 01:31:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 01:31:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 01:31:24 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:37:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:37:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:37:48 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 01:37:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2024-02-02 01:37:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:39:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 01:39:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 01:39:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 01:39:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:08:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:10:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:10:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:10:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:10:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:10:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:22 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:22 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:11:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:11:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:43 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:11:43 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:11:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 49 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 68 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 67 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 66 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 103 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 102 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 98 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 97 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 106 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 105 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 104 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 103 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 102 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 103 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 104 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 103 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 167 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 167 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 166 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 182 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 181 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 180 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 185 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 184 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 183 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 182 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 181 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 200 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 199 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 198 flow
+2024-02-02 10:11:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:13:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:13:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:13:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 71 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 75 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 74 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-02-02 10:13:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:37:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:37:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:37:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-02-02 10:37:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:42:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:42:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:42:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:42:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 95 flow
+2024-02-02 10:42:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 95 flow
+2024-02-02 10:42:37 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:44:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:44:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:44:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:44:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-02-02 10:44:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-02-02 10:44:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2003 flow
+2024-02-02 10:44:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2003 flow
+2024-02-02 10:44:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:45:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:45:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:45:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:45:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 338 flow
+2024-02-02 10:45:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 364 flow
+2024-02-02 10:45:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:49:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:49:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:49:29 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:49:29 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:55:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:55:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:55:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 63 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 62 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 60 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 75 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 74 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 78 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2024-02-02 10:55:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:11 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:11 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:57:12 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-02-02 10:57:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 10:57:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1
+2024-02-02 10:57:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 10:57:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-02-02 10:57:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\Portscan_predictor\packetcaptures1\captured_packets.pcap
+2024-02-02 14:44:15 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:48:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:48:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:48:56 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:50:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:50:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:50:51 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:52:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:52:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:52:31 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:56:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:56:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:56:02 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:56:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow
+2024-02-02 14:56:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: 20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:56:52 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2024-02-02 14:58:33 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 14:58:33 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 14:58:33 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 14:58:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 14:58:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 14:58:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:00:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:00:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:00:24 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:00:24 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:02:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:02:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:02:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:02:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:09:43 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:09:43 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:09:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:09:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:12:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:12:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:12:23 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:12:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 15:12:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 15:12:24 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:15:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:15:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:15:14 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:15:14 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:18:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:18:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:18:16 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:18:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:19:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:19:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:19:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:19:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 15:19:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 15:19:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 15:19:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 15:19:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:20:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:20:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:20:39 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:20:39 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 15:20:39 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 15:20:39 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:21:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:21:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:21:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:21:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-02-02 15:21:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-02-02 15:21:37 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:29:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:29:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:29:11 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:29:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:31:32 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:31:32 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:31:32 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:31:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:31:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:31:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:37:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:37:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:37:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:37:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-02-02 15:37:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-02-02 15:37:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:40:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:40:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:40:14 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:40:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 15:40:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-02-02 15:40:14 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:42:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:42:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:42:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:42:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:43:25 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:43:25 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:43:25 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:43:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:49:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:49:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:49:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:49:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:49:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:49:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:54:17 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:54:17 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:54:17 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:54:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:55:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:55:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:55:29 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:55:29 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:56:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:56:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:56:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:56:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:57:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:57:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:57:42 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:57:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:58:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:15 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-02-02 15:58:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:58:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:58:30 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:58:46 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:58:46 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:58:46 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:58:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 15:59:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 15:59:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 15:59:51 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 15:59:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:59:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 15:59:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 16:00:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:00:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:00:23 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 16:00:24 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 16:01:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 16:01:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 16:01:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-02-02 16:01:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 16:01:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 16:01:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 16:01:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2024-02-02 16:01:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\Downloads\\final_dontkow20\\Portscan_final\\packetcaptures1
+2024-02-02 16:01:34 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 16:01:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\Downloads\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 19:26:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap
+2024-02-02 19:26:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1
+2024-02-02 19:26:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-02-02 19:26:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\soman\OneDrive\Desktop\final_dontkow20\Portscan_final\packetcaptures1\captured_packets.pcap

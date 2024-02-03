@@ -1,0 +1,86 @@
+2024-01-27 17:16:52 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2024-01-27 17:17:05 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-01-27 17:17:18 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:17:23 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-01-27 17:17:30 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:21:13 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-01-27 17:21:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:21:53 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-01-27 17:22:12 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:46:26 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:46:49 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 17:46:55 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:46:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:47:47 DEBUG swing.common.SwingUtils    C:\Users\mahal\Contacts (Access is denied)
+2024-01-27 17:47:47 DEBUG swing.common.SwingUtils    C:\Users\mahal\Documents (Access is denied)
+2024-01-27 17:47:47 DEBUG swing.common.SwingUtils    C:\Users\mahal\Downloads (Access is denied)
+2024-01-27 17:50:40 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-01-27 17:50:50 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\mahal\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2024-01-27_Flow.csv
+2024-01-27 17:51:12 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:51:17 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 17:51:18 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:51:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:51:58 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:51:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:52:41 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\testdata.pcapng
+2024-01-27 17:53:06 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:53:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\testdata.pcap
+2024-01-27 17:54:20 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\hellowolrd.pcap
+2024-01-27 17:54:25 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 17:54:26 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\hellowolrd.pcap
+2024-01-27 17:54:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\hellowolrd.pcap
+2024-01-27 18:04:23 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 18:05:41 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:05:43 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 18:05:48 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:05:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:08:53 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:08:56 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 18:09:07 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:09:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-01-27 18:09:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:11:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow    C:\Users\mahal\Downloads\helloworld.pcap_Flow.csv (The process cannot access the file because it is being used by another process)
+2024-01-27 18:22:23 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:22:26 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 18:22:27 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 18:22:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\helloworld.pcap
+2024-01-27 19:07:58 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\captured_packets.pcap
+2024-01-27 19:08:00 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 19:08:01 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\captured_packets.pcap
+2024-01-27 19:08:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\captured_packets.pcap
+2024-01-27 19:14:14 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\captured_packets (1).pcap
+2024-01-27 19:14:16 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 19:14:16 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\captured_packets (1).pcap
+2024-01-27 19:14:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\captured_packets (1).pcap
+2024-01-27 19:23:45 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\captured_packets1.pcap
+2024-01-27 19:23:46 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 19:23:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\captured_packets1.pcap
+2024-01-27 19:23:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\captured_packets1.pcap
+2024-01-27 19:30:12 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\mahal\Downloads\captured_packets.pcap
+2024-01-27 19:30:14 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\mahal\Downloads
+2024-01-27 19:30:14 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\mahal\Downloads\captured_packets.pcap
+2024-01-27 19:30:14 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\mahal\Downloads\captured_packets.pcap
