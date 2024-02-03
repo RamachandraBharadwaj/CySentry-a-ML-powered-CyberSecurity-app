@@ -29,7 +29,7 @@ while the Portscan attacks deals with networking and is not just limited to file
 PE files were chosen by our team as majority of computers have executable files and DLL files. There are innumerable applications which are executed many times on a particular system and hence due to the popularity, it is a very widespread medium to pass and spread malware.
 We parse only the PE header information. Here is the image of the PE file structure to better understand it :
 
-[!imag](readme_images/Portable-executable-file-format.png)
+![imag](readme_images/Portable-executable-file-format.png)
 
 We designed models encompassing the static features of PE files such as the NT_HEADERS, DOS_HEADERS, the various sections like .text,.data,.rcsc and their entropy values. The other models also accounted various DLLs imported by the PE file and the nature of the functions imported by them by decoding their names and finalizing the classification.
 
