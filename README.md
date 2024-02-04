@@ -31,7 +31,7 @@ We parse only the PE header information. Here is the image of the PE file struct
 
 ![imag](readme_images/Portable-executable-file-format.png)
 
-We designed models encompassing the static features of PE files such as the NT_HEADERS, DOS_HEADERS, the various sections like .text,.data,.rcsc and their entropy values. The other models also accounted various DLLs imported by the PE file and the nature of the functions imported by them by decoding their names and finalizing the classification.
+We designed models encompassing the static features of PE files such as the NT_HEADERS, DOS_HEADERS, the various sections like .text,.data,.rsrc and their entropy values. The other models also accounted various DLLs imported by the PE file and the nature of the functions imported by them by decoding their names and finalizing the classification.
 
 We used a combination probability of 5 perfectly designed, trained and tested models to classify a file into three tiers:
 
