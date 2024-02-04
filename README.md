@@ -97,14 +97,14 @@ But these are the mentions of the libraries used, we have written the means of d
 (We will be uploading the exe file on the website soon)
 
 Python Libraries:(installed using pip):
-'''bash
+ '''shell
  numpy
  pandas
  joblib
  pefile
  flet
- scikit-learn 
-'''
+ scikit-learn
+ '''
 
 OS:
 1) Windows 7
