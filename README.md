@@ -97,7 +97,16 @@ But these are the mentions of the libraries used, we have written the means of d
 (We will be uploading the exe file on the website soon)
 
 Python Libraries:(installed using pip):
-Numpy Pandas OS Joblib Warnings Subprocess Time Pefile Flet 
+Numpy
+Pandas
+OS
+Joblib
+Warnings
+Subprocess
+Time
+Pefile
+Flet
+Scikit-learn 1.3.2
 
 OS:
 1) Windows 7
@@ -115,11 +124,9 @@ No modifications need to be made, just run the executable after downloading from
 
 ## Executing Program without App:
 
-1) Unzip FINAL_DONTKOW20 zip file an extract it.
+1) Open the "CySentry.py" and run the file using python.
 
-2) Open the "CySentry.py" and run the file using python.
-
-3) The App's GUI appears and then you can use it.
+2) The App's GUI appears and then you can use it.
 
 ## Authors:
 
