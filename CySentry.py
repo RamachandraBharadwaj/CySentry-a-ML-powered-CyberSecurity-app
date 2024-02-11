@@ -188,7 +188,7 @@ def main(page:ft.Page):
             ft.Column(controls=[
                 ft.Text("""        *Warning*         
                         """,weight=ft.FontWeight.W_900,size=30,text_align=ft.alignment.center),
-                ft.Text("""   Vius is Still in your Computer 
+                ft.Text("""   Virus is Still in your Computer 
                         """,weight=ft.FontWeight.W_500,size=20,text_align="center"),
             ],alignment=ft.MainAxisAlignment.CENTER
             ),
@@ -634,7 +634,7 @@ def main(page:ft.Page):
             file_main_image.height=60
             page.update()
             
-        elif(pridict[0]==1):
+        elif(pridict[0]==2):
             temp=filelocation
             temp1=temp.split("/")
             virus_dic[temp1[-1]]=temp
