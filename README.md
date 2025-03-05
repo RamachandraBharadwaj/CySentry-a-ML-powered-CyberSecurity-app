@@ -1,6 +1,6 @@
 
 
-# CySentry
+# CySentry app
 
 The System Compromised Checker is a critical tool in the realm of cybersecurity, designed to assess and evaluate the integrity of computer systems. In an era where digital threats loom large, this checker plays a pivotal role in identifying potential vulnerabilities and unauthorized access points that could jeopardize the security of sensitive information. 
 
