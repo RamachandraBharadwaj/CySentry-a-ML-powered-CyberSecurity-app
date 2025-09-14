@@ -127,7 +127,7 @@ No modifications need to be made, just run the executable after downloading from
 
 ## Authors:
 
-1) Ramachandra Bharadwaj- sriramch2005@gmail.com
+1) Ramachandra Bhardwaj- sriramch2005@gmail.com
 
 2) Somanath - somanathnayak1304@gmail.com
 
